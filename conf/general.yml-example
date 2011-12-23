@@ -1,0 +1,18 @@
+# general-example:
+# Example values for the "general" config file.
+#
+# Configuration parameters, in YAML syntax.
+#
+# Copy this file to one called "general.yml" in the same directory.  Or
+# have multiple config files and use a symlink to change between them.
+# 
+# Copyright (c) 2011 UK Citizens Online Democracy. All rights reserved.
+
+POPIT_DB_HOST: 'localhost'
+POPIT_DB_PORT: '5432'
+POPIT_DB_USER: ''
+POPIT_DB_NAME: ''
+POPIT_DB_PASS: ''
+
+STAGING: '1'
+

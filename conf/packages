@@ -1,0 +1,6 @@
+
+# needed to build the virtualenv
+python-dev
+python-pip
+python-virtualenv
+
