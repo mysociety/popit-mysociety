@@ -160,7 +160,7 @@ LOGGING = {
         'mail_admins': {
             'level': 'ERROR',
             'class': 'django.utils.log.AdminEmailHandler'
-        }
+        },
         'stream_to_stderr': {
             'level': 'WARN',
             'class': 'logging.StreamHandler',
